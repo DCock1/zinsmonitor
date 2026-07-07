@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'v5-20260704c';
+const CACHE_VERSION = 'v5-20260707';
 const CACHE_NAME = `zinsmonitor-${CACHE_VERSION}`;
 const STATIC_ASSETS = [
   './',
